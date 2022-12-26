@@ -5,3 +5,7 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
+.
+ |-- my-module
+ |   `-- pom.xml
+ `-- pom.xml
