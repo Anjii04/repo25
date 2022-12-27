@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<0>
+		<Date></Date>
+		<Region>1-May</Region>
+		<Product>East</Product>
+		<Qty>Paper</Qty>
+		<Cost>73</Cost>
+		<Amt>12.95</Amt>
+		<Tax>$ 945.35</Tax>
+		<Total>66.17</Total>
+		<element></element>
+	</0>
+	<1>
+		<Date></Date>
+		<Region>1-May</Region>
+		<Product>West</Product>
+		<Qty>Pens</Qty>
+		<Cost>40</Cost>
+		<Amt>2.19</Amt>
+		<Tax>$ 87.60</Tax>
+		<Total>6.13</Total>
+		<element></element>
+	</1>
+	<2>
+		<Date></Date>
+		<Region>2-May</Region>
+		<Product>West</Product>
+		<Qty>Paper</Qty>
+		<Cost>33</Cost>
+		<Amt>12.95</Amt>
+		<Tax>$ 427.35</Tax>
+		<Total>29.91</Total>
+		<element></element>
+	</2>
+	<3>
+		<Date></Date>
+		<Region>2-May</Region>
+		<Product>East</Product>
+		<Qty>Paper</Qty>
+		<Cost>21</Cost>
+		<Amt>12.95</Amt>
+		<Tax>$ 271.95</Tax>
+		<Total>19.04</Total>
+		<element></element>
+	</3>
+	<4>
+		<Date></Date>
+		<Region>3-May</Region>
+		<Product>East</Product>
+		<Qty>Pens</Qty>
+		<Cost>14</Cost>
+		<Amt>2.19</Amt>
+		<Tax>$ 30.66</Tax>
+		<Total>2.15</Total>
+		<element></element>
+	</4>
+	<5>
+		<Date></Date>
+		<Region>3-May</Region>
+		<Product>West</Product>
+		<Qty>Paper</Qty>
+		<Cost>10</Cost>
+		<Amt>12.95</Amt>
+		<Tax>$ 129.50</Tax>
+		<Total>9.07</Total>
+		<element></element>
+	</5>
+	<6>
+		<Date></Date>
+		<Region>4-May</Region>
+		<Product>East</Product>
+		<Qty>Pens</Qty>
+		<Cost>15</Cost>
+		<Amt>2</Amt>
+		<Tax>$ 30.00</Tax>
+		<Total>2.10</Total>
+		<element></element>
+	</6>
+	<7>
+		<Date></Date>
+		<Region>5-May</Region>
+		<Product>West</Product>
+		<Qty>pens</Qty>
+		<Cost>20</Cost>
+		<Amt>5</Amt>
+		<Tax>$ 100.00</Tax>
+		<Total>7.00</Total>
+		<element></element>
+	</7>
+	<8>
+		<Date></Date>
+		<Region>www.contextures.com</Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</8>
+	<9>
+		<Date>Product Sales</Date>
+		<Region></Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost>www.contextures.com </Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</9>
+	<10>
+		<Date></Date>
+		<Region></Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</10>
+	<11>
+		<Date>Date</Date>
+		<Region>Region</Region>
+		<Product>Product</Product>
+		<Qty>Qty</Qty>
+		<Cost>Cost</Cost>
+		<Amt>Amt</Amt>
+		<Tax>Tax</Tax>
+		<Total>Total</Total>
+		<element></element>
+	</11>
+	<12>
+		<Date>1-May</Date>
+		<Region>East</Region>
+		<Product>Paper</Product>
+		<Qty>73</Qty>
+		<Cost>12.95</Cost>
+		<Amt>945.34999999999991</Amt>
+		<Tax>66.174499999999995</Tax>
+		<Total>1011.5244999999999</Total>
+		<element></element>
+	</12>
+	<13>
+		<Date>1-May</Date>
+		<Region>West</Region>
+		<Product>Pens</Product>
+		<Qty>40</Qty>
+		<Cost>2.19</Cost>
+		<Amt>87.6</Amt>
+		<Tax>6.1320000000000006</Tax>
+		<Total>93.731999999999999</Total>
+		<element></element>
+	</13>
+	<14>
+		<Date>2-May</Date>
+		<Region>West</Region>
+		<Product>Paper</Product>
+		<Qty>33</Qty>
+		<Cost>12.95</Cost>
+		<Amt>427.34999999999997</Amt>
+		<Tax>29.9145</Tax>
+		<Total>457.26449999999994</Total>
+		<element></element>
+	</14>
+	<15>
+		<Date>2-May</Date>
+		<Region>East</Region>
+		<Product>Paper</Product>
+		<Qty>21</Qty>
+		<Cost>12.95</Cost>
+		<Amt>271.95</Amt>
+		<Tax>19.0365</Tax>
+		<Total>290.98649999999998</Total>
+		<element></element>
+	</15>
+	<16>
+		<Date>3-May</Date>
+		<Region>East</Region>
+		<Product>Pens</Product>
+		<Qty>14</Qty>
+		<Cost>2.19</Cost>
+		<Amt>30.66</Amt>
+		<Tax>2.1462000000000003</Tax>
+		<Total>32.806200000000004</Total>
+		<element></element>
+	</16>
+	<17>
+		<Date>3-May</Date>
+		<Region>West</Region>
+		<Product>Paper</Product>
+		<Qty>10</Qty>
+		<Cost>12.95</Cost>
+		<Amt>129.5</Amt>
+		<Tax>9.0650000000000013</Tax>
+		<Total>138.565</Total>
+		<element></element>
+	</17>
+	<18>
+		<Date>4-May</Date>
+		<Region>East</Region>
+		<Product>Pens</Product>
+		<Qty>15</Qty>
+		<Cost>2</Cost>
+		<Amt>30</Amt>
+		<Tax>2.1</Tax>
+		<Total>32.1</Total>
+		<element></element>
+	</18>
+	<19>
+		<Date>5-May</Date>
+		<Region>West</Region>
+		<Product>pens</Product>
+		<Qty>20</Qty>
+		<Cost>5</Cost>
+		<Amt>100</Amt>
+		<Tax>7.0000000000000009</Tax>
+		<Total>107</Total>
+		<element></element>
+	</19>
+	<20>
+		<Date>Total</Date>
+		<Region></Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total>2163.98</Total>
+		<element></element>
+	</20>
+	<21>
+		<Date>Date</Date>
+		<Region>Product</Region>
+		<Product>Qty</Product>
+		<Qty>Cost</Qty>
+		<Cost>Amt</Cost>
+		<Amt></Amt>
+		<Tax>Blank Cells</Tax>
+		<Total></Total>
+		<element></element>
+	</21>
+	<22>
+		<Date>1-May</Date>
+		<Region>Paper</Region>
+		<Product>73</Product>
+		<Qty>12.95</Qty>
+		<Cost>945.34999999999991</Cost>
+		<Amt></Amt>
+		<Tax>1</Tax>
+		<Total></Total>
+		<element>Downloaded from:</element>
+	</22>
+	<23>
+		<Date>1-May</Date>
+		<Region>Pens</Region>
+		<Product>40</Product>
+		<Qty>2.19</Qty>
+		<Cost>87.6</Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element>http://www.contextures.com/xlExcelTable01.html</element>
+	</23>
+	<24>
+		<Date>2-May</Date>
+		<Region>Paper</Region>
+		<Product>33</Product>
+		<Qty>12.95</Qty>
+		<Cost>427.34999999999997</Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</24>
+	<25>
+		<Date>2-May</Date>
+		<Region>Paper</Region>
+		<Product>21</Product>
+		<Qty>12.95</Qty>
+		<Cost>271.95</Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element>www.contextures.com </element>
+	</25>
+	<26>
+		<Date>3-May</Date>
+		<Region></Region>
+		<Product>14</Product>
+		<Qty>2.19</Qty>
+		<Cost>30.66</Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</26>
+	<27>
+		<Date>3-May</Date>
+		<Region>Paper</Region>
+		<Product>10</Product>
+		<Qty>12.95</Qty>
+		<Cost>129.5</Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</27>
+	<28>
+		<Date>4-May</Date>
+		<Region>Pens</Region>
+		<Product>15</Product>
+		<Qty>2</Qty>
+		<Cost>30</Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</28>
+	<29>
+		<Date>5-May</Date>
+		<Region>pens</Region>
+		<Product>20</Product>
+		<Qty>5</Qty>
+		<Cost>100</Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</29>
+	<30>
+		<Date>Product Sales</Date>
+		<Region></Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost>www.contextures.com </Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</30>
+	<31>
+		<Date></Date>
+		<Region></Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</31>
+	<32>
+		<Date>Date</Date>
+		<Region>Region</Region>
+		<Product>Product</Product>
+		<Qty>Qty</Qty>
+		<Cost>Cost</Cost>
+		<Amt>Amt</Amt>
+		<Tax>Tax</Tax>
+		<Total>Total</Total>
+		<element>Totals less than 75 are highlighted with conditional formatting</element>
+	</32>
+	<33>
+		<Date>1-May</Date>
+		<Region>East</Region>
+		<Product>Paper</Product>
+		<Qty>73</Qty>
+		<Cost>12.95</Cost>
+		<Amt>945.34999999999991</Amt>
+		<Tax>66.174499999999995</Tax>
+		<Total>1011.5244999999999</Total>
+		<element>You can filter by colour in the Total column</element>
+	</33>
+	<34>
+		<Date>1-May</Date>
+		<Region>West</Region>
+		<Product>Pens</Product>
+		<Qty>40</Qty>
+		<Cost>2.19</Cost>
+		<Amt>87.6</Amt>
+		<Tax>6.1320000000000006</Tax>
+		<Total>93.731999999999999</Total>
+		<element></element>
+	</34>
+	<35>
+		<Date>2-May</Date>
+		<Region>West</Region>
+		<Product>Paper</Product>
+		<Qty>33</Qty>
+		<Cost>12.95</Cost>
+		<Amt>427.34999999999997</Amt>
+		<Tax>29.9145</Tax>
+		<Total>457.26449999999994</Total>
+		<element>Downloaded from:</element>
+	</35>
+	<36>
+		<Date>2-May</Date>
+		<Region>East</Region>
+		<Product>Paper</Product>
+		<Qty>21</Qty>
+		<Cost>12.95</Cost>
+		<Amt>271.95</Amt>
+		<Tax>19.0365</Tax>
+		<Total>290.98649999999998</Total>
+		<element>http://www.contextures.com/xlExcelTable01.html</element>
+	</36>
+	<37>
+		<Date>3-May</Date>
+		<Region>East</Region>
+		<Product>Pens</Product>
+		<Qty>14</Qty>
+		<Cost>2.19</Cost>
+		<Amt>30.66</Amt>
+		<Tax>2.1462000000000003</Tax>
+		<Total>32.806200000000004</Total>
+		<element></element>
+	</37>
+	<38>
+		<Date>3-May</Date>
+		<Region>West</Region>
+		<Product>Paper</Product>
+		<Qty>10</Qty>
+		<Cost>12.95</Cost>
+		<Amt>129.5</Amt>
+		<Tax>9.0650000000000013</Tax>
+		<Total>138.565</Total>
+		<element></element>
+	</38>
+	<39>
+		<Date>4-May</Date>
+		<Region>East</Region>
+		<Product>Pens</Product>
+		<Qty>15</Qty>
+		<Cost>2</Cost>
+		<Amt>30</Amt>
+		<Tax>2.1</Tax>
+		<Total>32.1</Total>
+		<element></element>
+	</39>
+	<40>
+		<Date>5-May</Date>
+		<Region>West</Region>
+		<Product>pens</Product>
+		<Qty>20</Qty>
+		<Cost>5</Cost>
+		<Amt>100</Amt>
+		<Tax>7.0000000000000009</Tax>
+		<Total>107</Total>
+		<element></element>
+	</40>
+	<41>
+		<Date></Date>
+		<Region>Contextures Products</Region>
+		<Product></Product>
+	</41>
+	<42>
+		<Date></Date>
+		<Region></Region>
+		<Product></Product>
+	</42>
+	<43>
+		<Date></Date>
+		<Region>PivotPower Premium Add-in</Region>
+		<Product>Time-saving tools for pivot table power users</Product>
+	</43>
+	<44>
+		<Date></Date>
+		<Region>UserForms for Data Entry ebook Kit</Region>
+		<Product>Step by step instructions and videos</Product>
+	</44>
+	<45>
+		<Date></Date>
+		<Region>Contextures Excel Tools Add-in</Region>
+		<Product>Make instant backups</Product>
+		<Qty> sort sheets</Qty>
+		<Cost> and many more tools</Cost>
+	</45>
+	<46>
+		<Date></Date>
+		<Region>Data Validation Multi-Select Premium Kit</Region>
+		<Product>Select multiple items from a listbox</Product>
+		<Qty> to enter in a single cell</Qty>
+	</46>
+	<47>
+		<Date></Date>
+		<Region>30 Excel Functions in 30 Days eBook Kit</Region>
+		<Product>Sample workbook and easy to follow user guide for key Excel functions</Product>
+	</47>
+	<48>
+		<Date></Date>
+		<Region></Region>
+		<Product></Product>
+	</48>
+	<49>
+		<Date></Date>
+		<Region>Contextures Recommends</Region>
+		<Product></Product>
+	</49>
+	<50>
+		<Date></Date>
+		<Region></Region>
+		<Product></Product>
+	</50>
+	<51>
+		<Date></Date>
+		<Region>Jon Peltier's Excel Chart Utilities</Region>
+		<Product>Create complex charts with just a few clicks</Product>
+	</51>
+	<52>
+		<Date></Date>
+		<Region>ExcelUser Dashboards</Region>
+		<Product>Templates and instructions for impressive dashboards</Product>
+	</52>
+	<53>
+		<Date></Date>
+		<Region>Xtreme Pivot Table Course</Region>
+		<Product>Video training from beginner to advanced topics</Product>
+	</53>
+	<54>
+		<Date></Date>
+		<Region>Power Pivot University</Region>
+		<Product>Online course by Power Pivot expert Rob Collie</Product>
+	</54>
+	<55>
+		<Date></Date>
+		<Region>Excel Courses Online</Region>
+		<Product>Excel training by Mynda Treacy</Product>
+	</55>
+	<56>
+		<Date></Date>
+		<Region>Chandoo's Excel VBA School</Region>
+		<Product>Become awesome in Excel VBA with Chandoo's online training</Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+	</56>
+	<57>
+		<Date></Date>
+		<Region>Chandoo's Project Management Templates</Region>
+		<Product>Save time with Chandoo's templates for project management</Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+	</57>
+	<58>
+		<Date></Date>
+		<Region></Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+	</58>
+	<59>
+		<Date></Date>
+		<Region>Contextures Sites & News</Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+	</59>
+	<60>
+		<Date></Date>
+		<Region></Region>
+		<Product></Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+	</60>
+	<61>
+		<Date></Date>
+		<Region>Contextures Excel Newsletter</Region>
+		<Product>Weekly Excel tips</Product>
+		<Qty> tutorials</Qty>
+		<Cost> videos</Cost>
+		<Amt> and news</Amt>
+		<Tax></Tax>
+		<Total></Total>
+		<element></element>
+	</61>
+	<62>
+		<Date></Date>
+		<Region>Contextures Excel Tips Website</Region>
+		<Product>Hundreds of tutorials</Product>
+		<Qty> tips and sample files</Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+	</62>
+	<63>
+		<Date></Date>
+		<Region>Contextures Excel Blog</Region>
+		<Product>Read the Excel tutorials and share your comments</Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+	</63>
+	<64>
+		<Date></Date>
+		<Region>Excel Pivot Tables Blog</Region>
+		<Product>Pivot table tutorials and tips</Product>
+		<Qty> with comments and questions</Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+		<Total></Total>
+	</64>
+	<65>
+		<Date></Date>
+		<Region>Debra's Pivot Table Books on Amazon</Region>
+		<Product>Pivot table books for Excel 2007</Product>
+		<Qty></Qty>
+		<Cost></Cost>
+		<Amt></Amt>
+		<Tax></Tax>
+	</65>
+	<66>
+		<Date></Date>
+	</66>
+</root>
