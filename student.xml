@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentlist>
+<student>
+   <name>Anjii</name>
+    <fathername>T.S.R</fathername>
+    <address>hyd</address>
+    <subject>maths</subject>
+    <marks>35</marks>
+   </student>
+</studentlist>
